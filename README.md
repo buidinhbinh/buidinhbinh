@@ -34,8 +34,8 @@
 
 ### 🌐 Reach me at
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/buidinhbinh)
-[![Telegram](https://img.shields.io/badge/Telegram-%23229ED9.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/buidinhbinh)
+[![Zalo](https://img.shields.io/badge/Zalo-%2300AEEF.svg?style=for-the-badge&logo=Zalo&logoColor=white)](https://zalo.me/0377994308)
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Telegram!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Zalo!;I'm+always+down+to+collab+:)">
 </h3>
